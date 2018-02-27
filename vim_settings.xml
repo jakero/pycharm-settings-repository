@@ -3,19 +3,57 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/'indent'" timestamp="1519757989121">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1519758080179">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+      </file>
       <file name="D:/Downloads/Untitled-2.html" timestamp="1519752377779">
         <mark key="'" line="1786" column="27" />
+      </file>
+      <file name="/" timestamp="1519757989118">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="1786" column="27" filename="D:/Downloads/Untitled-2.html" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>from module import foo, bar, \
+    baz, quux</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>'</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

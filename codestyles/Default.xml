@@ -15,6 +15,10 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="79" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
